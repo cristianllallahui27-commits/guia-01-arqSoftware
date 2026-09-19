@@ -21,7 +21,7 @@ El curso de Arquitectura de Software (IS-488) aborda el conjunto de decisiones i
 ## 📸 Evidencias del Laboratorio 01
 
 ### Paso 01: Verificación de versiones del entorno
-![Versiones](./assets/paso1-versiones.png)
+![Versiones](./docs/img/paso1-versiones.png)
 
 ### Paso 02: Estructura del proyecto
-![Estructura](./assets/paso2-versiones.png)
+![Estructura](./docs/img/paso2-versiones.png)
